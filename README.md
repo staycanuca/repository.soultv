@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Soul TV!
 
-You can use the [editor on GitHub](https://github.com/SoulTV/repository.soultv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this website to download our repository and wizard for use within Kodi.
+You can use this website to download our repository and wizard for use within Kodi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Instructions
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Go to the Kodi File Manager in Settings.
+2. Click on "Add source"
+3. The path for the source is https://soultv.github.io/repository.soultv/ (Give it the name "Soul TV").
+4. Go to "Addons" in Settings.
+5. In Addons, navigate to install an addon from zip. When it asks for the location, select "Soul TV", and install repository.soultv.zip
+6. Go back to Addons, but this time, select "Install from repository"
+7. Select the "Soul TV Repo"
+8. Go into the "Program add-ons" section in the repo, and you'll find the Soul Wizard!
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +34,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Installing a build using the Soul Wizard
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SoulTV/repository.soultv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. To install a build......
+2.
+3.
+4.
+5.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Soul TV? Contact us by email: SoulTVStudio@gmail.com
