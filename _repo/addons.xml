@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.soul" name="[B][COLOR grey]Soul TV[/COLOR][/B] Wizard" version="1.0" provider-name="soul">
+<addon id="plugin.program.soul" name="[B][COLOR grey]Soul[/COLOR][/B] Wizard" version="1.0" provider-name="soul">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -9,20 +9,20 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR grey]Soul TV[/COLOR][/B] Wizard</summary>
-    <description lang="en">[B][COLOR grey]Soul TV[/COLOR][/B] Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+    <summary lang="en">[B][COLOR grey]Soul[/COLOR][/B] Wizard</summary>
+    <description lang="en">[B][COLOR grey]Soul[/COLOR][/B] Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
     <platform>all</platform>
   </extension>
 </addon>
 
-    <addon id="repository.soultv" name="Soul TV Repo" version="0.1.0" provider-name="Soul TV">
+    <addon id="repository.soultv" name="Soul TV Repo" version="1.0.0" provider-name="Soul TV">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="Soul TV Repo">
-            <info compressed="false">https://github.com/SoulTV/repository.soultv/_repo/addons.xml</info>
-            <checksum>https://github.com/SoulTV/repository.soultv/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/SoulTV/repository.soultv/_repo/</datadir>
+            <info compressed="false">https://github.com/SoulTV/repository.soultv/raw/master/_repo/addons.xml</info>
+            <checksum>https://github.com/SoulTV/repository.soultv/raw/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/SoulTV/repository.soultv/raw/master/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
